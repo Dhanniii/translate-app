@@ -1,0 +1,1011 @@
+{
+    "metadata": {
+        "title": "Dataset Translate Indonesia → English",
+        "kelompok": "Kelompok 5 - Project Capstone Bu Erna",
+        "bidang_nlp": "Machine Translation",
+        "total_data": 200,
+        "tanggal": "Desember 2025"
+    },
+    "data": [
+        {
+            "no": 1,
+            "indonesia": "Halo apa kabar?",
+            "english": "Hello how are you?"
+        },
+        {
+            "no": 2,
+            "indonesia": "Saya suka belajar pemrograman",
+            "english": "I like to learn programming"
+        },
+        {
+            "no": 3,
+            "indonesia": "Cuaca hari ini sangat cerah",
+            "english": "The weather is very sunny today"
+        },
+        {
+            "no": 4,
+            "indonesia": "Selamat pagi semua",
+            "english": "Good morning everyone"
+        },
+        {
+            "no": 5,
+            "indonesia": "Terima kasih atas bantuannya",
+            "english": "Thank you for your help"
+        },
+        {
+            "no": 6,
+            "indonesia": "Saya sedang belajar bahasa Inggris",
+            "english": "I am learning English"
+        },
+        {
+            "no": 7,
+            "indonesia": "Dia pergi ke sekolah setiap hari",
+            "english": "He goes to school every day"
+        },
+        {
+            "no": 8,
+            "indonesia": "Kami makan siang bersama",
+            "english": "We have lunch together"
+        },
+        {
+            "no": 9,
+            "indonesia": "Buku ini sangat menarik",
+            "english": "This book is very interesting"
+        },
+        {
+            "no": 10,
+            "indonesia": "Saya suka membaca novel",
+            "english": "I like reading novels"
+        },
+        {
+            "no": 11,
+            "indonesia": "Mereka bermain sepak bola di lapangan",
+            "english": "They play football on the field"
+        },
+        {
+            "no": 12,
+            "indonesia": "Ibu saya memasak makanan enak",
+            "english": "My mother cooks delicious food"
+        },
+        {
+            "no": 13,
+            "indonesia": "Ayah saya bekerja di kantor",
+            "english": "My father works in an office"
+        },
+        {
+            "no": 14,
+            "indonesia": "Adik saya masih kecil",
+            "english": "My younger sibling is still small"
+        },
+        {
+            "no": 15,
+            "indonesia": "Kakak saya kuliah di universitas",
+            "english": "My older sibling studies at university"
+        },
+        {
+            "no": 16,
+            "indonesia": "Hari ini adalah hari yang indah",
+            "english": "Today is a beautiful day"
+        },
+        {
+            "no": 17,
+            "indonesia": "Saya ingin pergi ke pantai",
+            "english": "I want to go to the beach"
+        },
+        {
+            "no": 18,
+            "indonesia": "Mereka sedang menonton film",
+            "english": "They are watching a movie"
+        },
+        {
+            "no": 19,
+            "indonesia": "Komputer saya rusak kemarin",
+            "english": "My computer broke yesterday"
+        },
+        {
+            "no": 20,
+            "indonesia": "Saya harus mengerjakan tugas",
+            "english": "I have to do my homework"
+        },
+        {
+            "no": 21,
+            "indonesia": "Dia sangat pintar dalam matematika",
+            "english": "He is very smart in mathematics"
+        },
+        {
+            "no": 22,
+            "indonesia": "Kami akan pergi berlibur minggu depan",
+            "english": "We will go on vacation next week"
+        },
+        {
+            "no": 23,
+            "indonesia": "Saya suka mendengarkan musik",
+            "english": "I like listening to music"
+        },
+        {
+            "no": 24,
+            "indonesia": "Mereka belajar di perpustakaan",
+            "english": "They study in the library"
+        },
+        {
+            "no": 25,
+            "indonesia": "Guru saya sangat baik",
+            "english": "My teacher is very kind"
+        },
+        {
+            "no": 26,
+            "indonesia": "Saya bangun pagi setiap hari",
+            "english": "I wake up early every day"
+        },
+        {
+            "no": 27,
+            "indonesia": "Dia membeli buku baru",
+            "english": "She bought a new book"
+        },
+        {
+            "no": 28,
+            "indonesia": "Kami bermain game bersama",
+            "english": "We play games together"
+        },
+        {
+            "no": 29,
+            "indonesia": "Saya suka makan nasi goreng",
+            "english": "I like eating fried rice"
+        },
+        {
+            "no": 30,
+            "indonesia": "Mereka pergi ke taman",
+            "english": "They go to the park"
+        },
+        {
+            "no": 31,
+            "indonesia": "Pemrosesan Bahasa Alami adalah cabang AI",
+            "english": "Natural Language Processing is a branch of AI"
+        },
+        {
+            "no": 32,
+            "indonesia": "Machine learning sangat penting",
+            "english": "Machine learning is very important"
+        },
+        {
+            "no": 33,
+            "indonesia": "Teknologi berkembang sangat cepat",
+            "english": "Technology develops very quickly"
+        },
+        {
+            "no": 34,
+            "indonesia": "Saya belajar coding setiap hari",
+            "english": "I learn coding every day"
+        },
+        {
+            "no": 35,
+            "indonesia": "Python adalah bahasa pemrograman populer",
+            "english": "Python is a popular programming language"
+        },
+        {
+            "no": 36,
+            "indonesia": "Data science adalah bidang yang menarik",
+            "english": "Data science is an interesting field"
+        },
+        {
+            "no": 37,
+            "indonesia": "Kecerdasan buatan mengubah dunia",
+            "english": "Artificial intelligence is changing the world"
+        },
+        {
+            "no": 38,
+            "indonesia": "Saya suka belajar hal baru",
+            "english": "I like learning new things"
+        },
+        {
+            "no": 39,
+            "indonesia": "Internet sangat berguna",
+            "english": "The internet is very useful"
+        },
+        {
+            "no": 40,
+            "indonesia": "Smartphone memudahkan komunikasi",
+            "english": "Smartphones make communication easier"
+        },
+        {
+            "no": 41,
+            "indonesia": "Aplikasi mobile sangat populer",
+            "english": "Mobile applications are very popular"
+        },
+        {
+            "no": 42,
+            "indonesia": "Website ini sangat informatif",
+            "english": "This website is very informative"
+        },
+        {
+            "no": 43,
+            "indonesia": "Saya menggunakan laptop untuk bekerja",
+            "english": "I use a laptop to work"
+        },
+        {
+            "no": 44,
+            "indonesia": "Email adalah alat komunikasi penting",
+            "english": "Email is an important communication tool"
+        },
+        {
+            "no": 45,
+            "indonesia": "Media sosial menghubungkan orang",
+            "english": "Social media connects people"
+        },
+        {
+            "no": 46,
+            "indonesia": "Saya suka fotografi",
+            "english": "I like photography"
+        },
+        {
+            "no": 47,
+            "indonesia": "Video game sangat menghibur",
+            "english": "Video games are very entertaining"
+        },
+        {
+            "no": 48,
+            "indonesia": "Musik membuat saya bahagia",
+            "english": "Music makes me happy"
+        },
+        {
+            "no": 49,
+            "indonesia": "Olahraga itu menyehatkan",
+            "english": "Exercise is healthy"
+        },
+        {
+            "no": 50,
+            "indonesia": "Membaca buku menambah pengetahuan",
+            "english": "Reading books increases knowledge"
+        },
+        {
+            "no": 51,
+            "indonesia": "Saya perlu istirahat sebentar",
+            "english": "I need to rest for a while"
+        },
+        {
+            "no": 52,
+            "indonesia": "Cuaca sangat panas hari ini",
+            "english": "The weather is very hot today"
+        },
+        {
+            "no": 53,
+            "indonesia": "Dia sedang belajar bahasa Jepang",
+            "english": "She is learning Japanese"
+        },
+        {
+            "no": 54,
+            "indonesia": "Kami akan pergi ke bioskop malam ini",
+            "english": "We will go to the cinema tonight"
+        },
+        {
+            "no": 55,
+            "indonesia": "Makanan ini sangat pedas",
+            "english": "This food is very spicy"
+        },
+        {
+            "no": 56,
+            "indonesia": "Saya suka mendengarkan musik klasik",
+            "english": "I like listening to classical music"
+        },
+        {
+            "no": 57,
+            "indonesia": "Mereka tinggal di Jakarta",
+            "english": "They live in Jakarta"
+        },
+        {
+            "no": 58,
+            "indonesia": "Tolong tutup pintunya",
+            "english": "Please close the door"
+        },
+        {
+            "no": 59,
+            "indonesia": "Saya lapar sekali",
+            "english": "I am very hungry"
+        },
+        {
+            "no": 60,
+            "indonesia": "Dia bekerja sebagai dokter",
+            "english": "He works as a doctor"
+        },
+        {
+            "no": 61,
+            "indonesia": "Anak-anak sedang bermain di taman",
+            "english": "The children are playing in the park"
+        },
+        {
+            "no": 62,
+            "indonesia": "Saya tidak suka kopi",
+            "english": "I don't like coffee"
+        },
+        {
+            "no": 63,
+            "indonesia": "Mereka sudah menikah selama 10 tahun",
+            "english": "They have been married for 10 years"
+        },
+        {
+            "no": 64,
+            "indonesia": "Rumah ini sangat besar",
+            "english": "This house is very big"
+        },
+        {
+            "no": 65,
+            "indonesia": "Saya akan membeli mobil baru",
+            "english": "I will buy a new car"
+        },
+        {
+            "no": 66,
+            "indonesia": "Dia pandai memasak",
+            "english": "She is good at cooking"
+        },
+        {
+            "no": 67,
+            "indonesia": "Kami sedang menunggu bus",
+            "english": "We are waiting for the bus"
+        },
+        {
+            "no": 68,
+            "indonesia": "Saya bangun jam 6 pagi",
+            "english": "I wake up at 6 in the morning"
+        },
+        {
+            "no": 69,
+            "indonesia": "Dia sangat rajin belajar",
+            "english": "He studies very diligently"
+        },
+        {
+            "no": 70,
+            "indonesia": "Kami makan malam bersama keluarga",
+            "english": "We have dinner with family"
+        },
+        {
+            "no": 71,
+            "indonesia": "Saya suka berenang di kolam renang",
+            "english": "I like swimming in the pool"
+        },
+        {
+            "no": 72,
+            "indonesia": "Mereka pergi ke gunung setiap bulan",
+            "english": "They go to the mountain every month"
+        },
+        {
+            "no": 73,
+            "indonesia": "Saya sedang mencari pekerjaan baru",
+            "english": "I am looking for a new job"
+        },
+        {
+            "no": 74,
+            "indonesia": "Dia tinggal sendirian di apartemen",
+            "english": "She lives alone in an apartment"
+        },
+        {
+            "no": 75,
+            "indonesia": "Kami akan berlibur ke Bali",
+            "english": "We will vacation to Bali"
+        },
+        {
+            "no": 76,
+            "indonesia": "Saya tidak bisa datang besok",
+            "english": "I cannot come tomorrow"
+        },
+        {
+            "no": 77,
+            "indonesia": "Dia sedang tidur di kamar",
+            "english": "He is sleeping in the room"
+        },
+        {
+            "no": 78,
+            "indonesia": "Kami harus pergi sekarang",
+            "english": "We have to go now"
+        },
+        {
+            "no": 79,
+            "indonesia": "Saya suka menggambar dan melukis",
+            "english": "I like drawing and painting"
+        },
+        {
+            "no": 80,
+            "indonesia": "Mereka sedang berdiskusi tentang proyek",
+            "english": "They are discussing the project"
+        },
+        {
+            "no": 81,
+            "indonesia": "Saya ingin belajar gitar",
+            "english": "I want to learn guitar"
+        },
+        {
+            "no": 82,
+            "indonesia": "Dia sangat baik hati",
+            "english": "She is very kind-hearted"
+        },
+        {
+            "no": 83,
+            "indonesia": "Kami pergi ke restoran Jepang",
+            "english": "We go to a Japanese restaurant"
+        },
+        {
+            "no": 84,
+            "indonesia": "Saya sedang menonton televisi",
+            "english": "I am watching television"
+        },
+        {
+            "no": 85,
+            "indonesia": "Dia lulus ujian dengan nilai bagus",
+            "english": "He passed the exam with good grades"
+        },
+        {
+            "no": 86,
+            "indonesia": "Kami suka jalan-jalan di mall",
+            "english": "We like walking around the mall"
+        },
+        {
+            "no": 87,
+            "indonesia": "Saya akan bertemu teman lama",
+            "english": "I will meet an old friend"
+        },
+        {
+            "no": 88,
+            "indonesia": "Dia sedang menulis surat",
+            "english": "She is writing a letter"
+        },
+        {
+            "no": 89,
+            "indonesia": "Kami belajar matematika bersama",
+            "english": "We study mathematics together"
+        },
+        {
+            "no": 90,
+            "indonesia": "Saya suka minum teh hangat",
+            "english": "I like drinking warm tea"
+        },
+        {
+            "no": 91,
+            "indonesia": "Mereka bermain basket di lapangan",
+            "english": "They play basketball on the court"
+        },
+        {
+            "no": 92,
+            "indonesia": "Saya tidak mengerti pertanyaan ini",
+            "english": "I don't understand this question"
+        },
+        {
+            "no": 93,
+            "indonesia": "Dia sedang mencuci mobil",
+            "english": "He is washing the car"
+        },
+        {
+            "no": 94,
+            "indonesia": "Kami akan mengadakan pesta ulang tahun",
+            "english": "We will have a birthday party"
+        },
+        {
+            "no": 95,
+            "indonesia": "Saya suka berjalan kaki pagi hari",
+            "english": "I like walking in the morning"
+        },
+        {
+            "no": 96,
+            "indonesia": "Dia sangat suka binatang",
+            "english": "She really likes animals"
+        },
+        {
+            "no": 97,
+            "indonesia": "Kami pergi ke pantai setiap musim panas",
+            "english": "We go to the beach every summer"
+        },
+        {
+            "no": 98,
+            "indonesia": "Saya sedang belajar bahasa Mandarin",
+            "english": "I am learning Mandarin"
+        },
+        {
+            "no": 99,
+            "indonesia": "Dia bekerja di perusahaan teknologi",
+            "english": "He works at a technology company"
+        },
+        {
+            "no": 100,
+            "indonesia": "Kami suka menonton film horor",
+            "english": "We like watching horror movies"
+        },
+        {
+            "no": 101,
+            "indonesia": "Saya akan pergi ke dokter gigi",
+            "english": "I will go to the dentist"
+        },
+        {
+            "no": 102,
+            "indonesia": "Dia sedang membersihkan rumah",
+            "english": "She is cleaning the house"
+        },
+        {
+            "no": 103,
+            "indonesia": "Kami belajar sejarah Indonesia",
+            "english": "We study Indonesian history"
+        },
+        {
+            "no": 104,
+            "indonesia": "Saya suka makan buah-buahan segar",
+            "english": "I like eating fresh fruits"
+        },
+        {
+            "no": 105,
+            "indonesia": "Mereka sedang merayakan kelulusan",
+            "english": "They are celebrating graduation"
+        },
+        {
+            "no": 106,
+            "indonesia": "Saya tidak suka bangun pagi",
+            "english": "I don't like waking up early"
+        },
+        {
+            "no": 107,
+            "indonesia": "Dia sangat pintar berbahasa Inggris",
+            "english": "He is very good at English"
+        },
+        {
+            "no": 108,
+            "indonesia": "Kami akan pindah rumah bulan depan",
+            "english": "We will move house next month"
+        },
+        {
+            "no": 109,
+            "indonesia": "Saya sedang mencari kunci mobil",
+            "english": "I am looking for the car keys"
+        },
+        {
+            "no": 110,
+            "indonesia": "Dia suka bermain piano",
+            "english": "She likes playing the piano"
+        },
+        {
+            "no": 111,
+            "indonesia": "Kami pergi ke museum akhir pekan ini",
+            "english": "We go to the museum this weekend"
+        },
+        {
+            "no": 112,
+            "indonesia": "Saya akan membuat kue untuk pesta",
+            "english": "I will make a cake for the party"
+        },
+        {
+            "no": 113,
+            "indonesia": "Dia sedang belajar untuk ujian",
+            "english": "He is studying for the exam"
+        },
+        {
+            "no": 114,
+            "indonesia": "Kami suka berkemah di alam",
+            "english": "We like camping in nature"
+        },
+        {
+            "no": 115,
+            "indonesia": "Saya tidak bisa tidur tadi malam",
+            "english": "I couldn't sleep last night"
+        },
+        {
+            "no": 116,
+            "indonesia": "Dia bekerja sangat keras",
+            "english": "She works very hard"
+        },
+        {
+            "no": 117,
+            "indonesia": "Kami akan mengunjungi nenek minggu depan",
+            "english": "We will visit grandma next week"
+        },
+        {
+            "no": 118,
+            "indonesia": "Saya suka fotografi landscape",
+            "english": "I like landscape photography"
+        },
+        {
+            "no": 119,
+            "indonesia": "Mereka sedang merencanakan perjalanan",
+            "english": "They are planning a trip"
+        },
+        {
+            "no": 120,
+            "indonesia": "Saya akan belajar memasak Italia",
+            "english": "I will learn Italian cooking"
+        },
+        {
+            "no": 121,
+            "indonesia": "Dia sangat suka membaca komik",
+            "english": "He really likes reading comics"
+        },
+        {
+            "no": 122,
+            "indonesia": "Kami pergi jogging setiap pagi",
+            "english": "We go jogging every morning"
+        },
+        {
+            "no": 123,
+            "indonesia": "Saya sedang menunggu email penting",
+            "english": "I am waiting for an important email"
+        },
+        {
+            "no": 124,
+            "indonesia": "Dia tinggal di dekat stasiun",
+            "english": "She lives near the station"
+        },
+        {
+            "no": 125,
+            "indonesia": "Kami akan makan di luar malam ini",
+            "english": "We will eat out tonight"
+        },
+        {
+            "no": 126,
+            "indonesia": "Saya suka mendengarkan podcast",
+            "english": "I like listening to podcasts"
+        },
+        {
+            "no": 127,
+            "indonesia": "Mereka sedang bermain catur",
+            "english": "They are playing chess"
+        },
+        {
+            "no": 128,
+            "indonesia": "Saya tidak suka cuaca dingin",
+            "english": "I don't like cold weather"
+        },
+        {
+            "no": 129,
+            "indonesia": "Dia sedang mengerjakan tugas akhir",
+            "english": "He is working on his thesis"
+        },
+        {
+            "no": 130,
+            "indonesia": "Kami suka piknik di taman",
+            "english": "We like picnicking in the park"
+        },
+        {
+            "no": 131,
+            "indonesia": "Saya akan belajar desain grafis",
+            "english": "I will learn graphic design"
+        },
+        {
+            "no": 132,
+            "indonesia": "Dia sangat suka traveling",
+            "english": "She really likes traveling"
+        },
+        {
+            "no": 133,
+            "indonesia": "Kami pergi ke konser musik",
+            "english": "We go to a music concert"
+        },
+        {
+            "no": 134,
+            "indonesia": "Saya sedang membaca novel baru",
+            "english": "I am reading a new novel"
+        },
+        {
+            "no": 135,
+            "indonesia": "Dia bekerja dari rumah",
+            "english": "He works from home"
+        },
+        {
+            "no": 136,
+            "indonesia": "Kami akan merayakan tahun baru",
+            "english": "We will celebrate the new year"
+        },
+        {
+            "no": 137,
+            "indonesia": "Saya suka bermain game online",
+            "english": "I like playing online games"
+        },
+        {
+            "no": 138,
+            "indonesia": "Mereka sedang renovasi rumah",
+            "english": "They are renovating the house"
+        },
+        {
+            "no": 139,
+            "indonesia": "Saya tidak bisa berbicara bahasa Korea",
+            "english": "I cannot speak Korean"
+        },
+        {
+            "no": 140,
+            "indonesia": "Dia sangat suka olahraga ekstrem",
+            "english": "She really likes extreme sports"
+        },
+        {
+            "no": 141,
+            "indonesia": "Kami pergi ke kafe setiap Sabtu",
+            "english": "We go to the cafe every Saturday"
+        },
+        {
+            "no": 142,
+            "indonesia": "Saya akan membeli laptop baru",
+            "english": "I will buy a new laptop"
+        },
+        {
+            "no": 143,
+            "indonesia": "Dia sedang belajar yoga",
+            "english": "He is learning yoga"
+        },
+        {
+            "no": 144,
+            "indonesia": "Kami suka menonton drama Korea",
+            "english": "We like watching Korean dramas"
+        },
+        {
+            "no": 145,
+            "indonesia": "Saya sedang diet sehat",
+            "english": "I am on a healthy diet"
+        },
+        {
+            "no": 146,
+            "indonesia": "Dia bekerja sebagai guru bahasa Inggris",
+            "english": "She works as an English teacher"
+        },
+        {
+            "no": 147,
+            "indonesia": "Kami akan pergi ke acara seminar",
+            "english": "We will go to a seminar event"
+        },
+        {
+            "no": 148,
+            "indonesia": "Saya suka makan makanan pedas",
+            "english": "I like eating spicy food"
+        },
+        {
+            "no": 149,
+            "indonesia": "Mereka sedang belajar coding",
+            "english": "They are learning coding"
+        },
+        {
+            "no": 150,
+            "indonesia": "Saya tidak suka terlambat",
+            "english": "I don't like being late"
+        },
+        {
+            "no": 151,
+            "indonesia": "Dia sangat suka berkebun",
+            "english": "He really likes gardening"
+        },
+        {
+            "no": 152,
+            "indonesia": "Kami pergi ke gym tiga kali seminggu",
+            "english": "We go to the gym three times a week"
+        },
+        {
+            "no": 153,
+            "indonesia": "Saya akan mengikuti kursus online",
+            "english": "I will take an online course"
+        },
+        {
+            "no": 154,
+            "indonesia": "Dia sedang menulis novel",
+            "english": "She is writing a novel"
+        },
+        {
+            "no": 155,
+            "indonesia": "Kami suka makan sushi",
+            "english": "We like eating sushi"
+        },
+        {
+            "no": 156,
+            "indonesia": "Saya sedang mencari apartemen baru",
+            "english": "I am looking for a new apartment"
+        },
+        {
+            "no": 157,
+            "indonesia": "Dia bekerja di rumah sakit",
+            "english": "He works at a hospital"
+        },
+        {
+            "no": 158,
+            "indonesia": "Kami akan pergi ke pameran seni",
+            "english": "We will go to an art exhibition"
+        },
+        {
+            "no": 159,
+            "indonesia": "Saya suka bermain tenis",
+            "english": "I like playing tennis"
+        },
+        {
+            "no": 160,
+            "indonesia": "Mereka sedang merayakan anniversary",
+            "english": "They are celebrating their anniversary"
+        },
+        {
+            "no": 161,
+            "indonesia": "Saya tidak suka keramaian",
+            "english": "I don't like crowds"
+        },
+        {
+            "no": 162,
+            "indonesia": "Dia sangat suka menyanyi",
+            "english": "She really likes singing"
+        },
+        {
+            "no": 163,
+            "indonesia": "Kami pergi ke pasar tradisional",
+            "english": "We go to the traditional market"
+        },
+        {
+            "no": 164,
+            "indonesia": "Saya akan belajar bahasa Spanyol",
+            "english": "I will learn Spanish"
+        },
+        {
+            "no": 165,
+            "indonesia": "Dia sedang memasak makan malam",
+            "english": "He is cooking dinner"
+        },
+        {
+            "no": 166,
+            "indonesia": "Kami suka menonton pertandingan sepak bola",
+            "english": "We like watching football matches"
+        },
+        {
+            "no": 167,
+            "indonesia": "Saya sedang belajar fotografi",
+            "english": "I am learning photography"
+        },
+        {
+            "no": 168,
+            "indonesia": "Dia bekerja sebagai programmer",
+            "english": "She works as a programmer"
+        },
+        {
+            "no": 169,
+            "indonesia": "Kami akan pergi ke festival musik",
+            "english": "We will go to a music festival"
+        },
+        {
+            "no": 170,
+            "indonesia": "Saya suka minum kopi di pagi hari",
+            "english": "I like drinking coffee in the morning"
+        },
+        {
+            "no": 171,
+            "indonesia": "Mereka sedang belajar bahasa Prancis",
+            "english": "They are learning French"
+        },
+        {
+            "no": 172,
+            "indonesia": "Saya tidak bisa berenang",
+            "english": "I cannot swim"
+        },
+        {
+            "no": 173,
+            "indonesia": "Dia sangat suka main game",
+            "english": "He really likes playing games"
+        },
+        {
+            "no": 174,
+            "indonesia": "Kami pergi ke toko buku setiap bulan",
+            "english": "We go to the bookstore every month"
+        },
+        {
+            "no": 175,
+            "indonesia": "Saya akan membuat website baru",
+            "english": "I will create a new website"
+        },
+        {
+            "no": 176,
+            "indonesia": "Dia sedang belajar menari",
+            "english": "She is learning to dance"
+        },
+        {
+            "no": 177,
+            "indonesia": "Kami suka makan es krim",
+            "english": "We like eating ice cream"
+        },
+        {
+            "no": 178,
+            "indonesia": "Saya sedang menonton serial Netflix",
+            "english": "I am watching a Netflix series"
+        },
+        {
+            "no": 179,
+            "indonesia": "Dia bekerja di bank",
+            "english": "He works at a bank"
+        },
+        {
+            "no": 180,
+            "indonesia": "Kami akan pergi ke kebun binatang",
+            "english": "We will go to the zoo"
+        },
+        {
+            "no": 181,
+            "indonesia": "Saya suka bermain badminton",
+            "english": "I like playing badminton"
+        },
+        {
+            "no": 182,
+            "indonesia": "Mereka sedang merencanakan bisnis",
+            "english": "They are planning a business"
+        },
+        {
+            "no": 183,
+            "indonesia": "Saya tidak suka makanan manis",
+            "english": "I don't like sweet food"
+        },
+        {
+            "no": 184,
+            "indonesia": "Dia sangat suka membaca berita",
+            "english": "She really likes reading news"
+        },
+        {
+            "no": 185,
+            "indonesia": "Kami pergi ke salon setiap minggu",
+            "english": "We go to the salon every week"
+        },
+        {
+            "no": 186,
+            "indonesia": "Saya akan belajar marketing digital",
+            "english": "I will learn digital marketing"
+        },
+        {
+            "no": 187,
+            "indonesia": "Dia sedang mengajar di kelas",
+            "english": "He is teaching in class"
+        },
+        {
+            "no": 188,
+            "indonesia": "Kami suka jalan-jalan sore hari",
+            "english": "We like walking in the afternoon"
+        },
+        {
+            "no": 189,
+            "indonesia": "Saya sedang belajar investasi",
+            "english": "I am learning about investment"
+        },
+        {
+            "no": 190,
+            "indonesia": "Dia bekerja sebagai desainer",
+            "english": "She works as a designer"
+        },
+        {
+            "no": 191,
+            "indonesia": "Kami akan pergi ke waterpark",
+            "english": "We will go to the waterpark"
+        },
+        {
+            "no": 192,
+            "indonesia": "Saya suka makan pizza",
+            "english": "I like eating pizza"
+        },
+        {
+            "no": 193,
+            "indonesia": "Mereka sedang belajar public speaking",
+            "english": "They are learning public speaking"
+        },
+        {
+            "no": 194,
+            "indonesia": "Saya tidak suka hujan",
+            "english": "I don't like rain"
+        },
+        {
+            "no": 195,
+            "indonesia": "Dia sangat suka kucing",
+            "english": "He really likes cats"
+        },
+        {
+            "no": 196,
+            "indonesia": "Kami pergi ke spa untuk relaksasi",
+            "english": "We go to the spa for relaxation"
+        },
+        {
+            "no": 197,
+            "indonesia": "Saya akan belajar editing video",
+            "english": "I will learn video editing"
+        },
+        {
+            "no": 198,
+            "indonesia": "Dia sedang bermain dengan anjingnya",
+            "english": "She is playing with her dog"
+        },
+        {
+            "no": 199,
+            "indonesia": "Kami suka menonton film animasi",
+            "english": "We like watching animated movies"
+        },
+        {
+            "no": 200,
+            "indonesia": "Saya sedang belajar artificial intelligence",
+            "english": "I am learning artificial intelligence"
+        }
+    ]
+}

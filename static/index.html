@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Detection & Translation</title>
+    <meta name="description" content="Translate text and detect language using Naive Bayes classification">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Language Detection & Translation</h1>
+            <p class="subtitle">Translate text and classify language using Naive Bayes</p>
+        </header>
+
+        <main>
+            <!-- Input Section -->
+            <section class="input-section">
+                <div class="form-group">
+                    <label for="inputText">Enter Text:</label>
+                    <textarea id="inputText" placeholder="Type or paste your text here..." rows="6"></textarea>
+                </div>
+
+                <div class="language-selector">
+                    <div class="form-group">
+                        <label for="sourceLang">From:</label>
+                        <select id="sourceLang">
+                            <option value="id">Indonesian</option>
+                            <option value="en">English</option>
+                        </select>
+                    </div>
+
+                    <button id="swapBtn" class="swap-btn" title="Swap languages">⇄</button>
+
+                    <div class="form-group">
+                        <label for="targetLang">To:</label>
+                        <select id="targetLang">
+                            <option value="en">English</option>
+                            <option value="id">Indonesian</option>
+                        </select>
+                    </div>
+                </div>
+
+                <button id="translateBtn" class="btn-primary">
+                    <span id="btnText">Translate & Classify</span>
+                    <span id="btnLoader" class="loader" style="display: none;"></span>
+                </button>
+            </section>
+
+            <!-- Results Section -->
+            <section id="resultsSection" class="results-section" style="display: none;">
+                <h2>Translation Result</h2>
+
+                <!-- Translation Result -->
+                <div class="result-card">
+                    <div class="text-display">
+                        <p id="translatedTextDisplay"></p>
+                    </div>
+                    <div class="classification">
+                        <h4>Language Classification:</h4>
+                        <div class="classification-result">
+                            <span class="language-badge" id="translatedLanguage"></span>
+                            <span class="confidence" id="translatedConfidence"></span>
+                        </div>
+                        <div class="probabilities">
+                            <div class="prob-bar">
+                                <span class="prob-label">Indonesian:</span>
+                                <div class="progress-bar">
+                                    <div class="progress-fill" id="translatedProbId"></div>
+                                </div>
+                                <span class="prob-value" id="translatedProbIdValue"></span>
+                            </div>
+                            <div class="prob-bar">
+                                <span class="prob-label">English:</span>
+                                <div class="progress-bar">
+                                    <div class="progress-fill" id="translatedProbEn"></div>
+                                </div>
+                                <span class="prob-value" id="translatedProbEnValue"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Confusion Matrix Section -->
+            <section class="confusion-matrix-section">
+                <h2>Model Evaluation</h2>
+                <div class="matrix-card">
+                    <h3>Confusion Matrix</h3>
+                    <p class="matrix-description">
+                        Confusion matrix dari model Naive Bayes yang digunakan untuk klasifikasi bahasa.
+                        Matrix ini menunjukkan performa model pada data testing.
+                    </p>
+                    <div class="matrix-image-container">
+                        <img src="confusion_matrix.png" alt="Confusion Matrix - Language Detection" class="matrix-image"
+                            onerror="this.parentElement.innerHTML='<p class=\'matrix-error\'>Confusion matrix not found. Please run train_model.py first.</p>'">
+                    </div>
+                </div>
+            </section>
+
+            <!-- Error Section -->
+            <div id="errorSection" class="error-section" style="display: none;">
+                <p id="errorMessage"></p>
+            </div>
+        </main>
+
+        <footer>
+            <p>Kelompok 5 - Project Capstone Bu Erna</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

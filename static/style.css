@@ -1,0 +1,431 @@
+/* ============================================================================
+   RESET & BASE STYLES
+   ============================================================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+/* ============================================================================
+   CONTAINER
+   ============================================================================ */
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+}
+
+/* ============================================================================
+   HEADER
+   ============================================================================ */
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #222;
+}
+
+.subtitle {
+    color: #666;
+    font-size: 14px;
+}
+
+/* ============================================================================
+   INPUT SECTION
+   ============================================================================ */
+
+.input-section {
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: #444;
+    font-size: 14px;
+}
+
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 15px;
+    font-family: inherit;
+    resize: vertical;
+    transition: border-color 0.2s;
+}
+
+textarea:focus {
+    outline: none;
+    border-color: #666;
+}
+
+/* ============================================================================
+   LANGUAGE SELECTOR
+   ============================================================================ */
+
+.language-selector {
+    display: flex;
+    align-items: flex-end;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.language-selector .form-group {
+    flex: 1;
+    margin-bottom: 0;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: white;
+    cursor: pointer;
+    transition: border-color 0.2s;
+}
+
+select:focus {
+    outline: none;
+    border-color: #666;
+}
+
+.swap-btn {
+    padding: 10px 15px;
+    background: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.2s;
+}
+
+.swap-btn:hover {
+    background: #e0e0e0;
+}
+
+/* ============================================================================
+   BUTTONS
+   ============================================================================ */
+
+.btn-primary {
+    width: 100%;
+    padding: 14px;
+    background: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.btn-primary:hover {
+    background: #555;
+}
+
+.btn-primary:disabled {
+    background: #999;
+    cursor: not-allowed;
+}
+
+/* ============================================================================
+   LOADER
+   ============================================================================ */
+
+.loader {
+    width: 16px;
+    height: 16px;
+    border: 2px solid #f3f3f3;
+    border-top: 2px solid #333;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* ============================================================================
+   RESULTS SECTION
+   ============================================================================ */
+
+.results-section {
+    margin-top: 40px;
+    padding-top: 30px;
+    border-top: 2px solid #e0e0e0;
+}
+
+.results-section h2 {
+    font-size: 22px;
+    margin-bottom: 25px;
+    color: #222;
+}
+
+.result-card {
+    background: #fafafa;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.result-card h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #444;
+}
+
+.result-card h4 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    color: #555;
+}
+
+.text-display {
+    background: white;
+    padding: 15px;
+    border-radius: 4px;
+    border: 1px solid #e0e0e0;
+    margin-bottom: 15px;
+}
+
+.text-display p {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* ============================================================================
+   CLASSIFICATION
+   ============================================================================ */
+
+.classification-result {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 15px;
+}
+
+.language-badge {
+    display: inline-block;
+    padding: 6px 12px;
+    background: #333;
+    color: white;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.confidence {
+    font-size: 14px;
+    color: #666;
+}
+
+/* ============================================================================
+   PROBABILITIES
+   ============================================================================ */
+
+.probabilities {
+    margin-top: 15px;
+}
+
+.prob-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.prob-label {
+    font-size: 13px;
+    color: #555;
+    min-width: 90px;
+}
+
+.progress-bar {
+    flex: 1;
+    height: 20px;
+    background: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    background: #666;
+    transition: width 0.3s ease;
+}
+
+.prob-value {
+    font-size: 13px;
+    color: #555;
+    min-width: 50px;
+    text-align: right;
+}
+
+/* ============================================================================
+   CONFUSION MATRIX SECTION
+   ============================================================================ */
+
+.confusion-matrix-section {
+    margin-top: 40px;
+    padding-top: 30px;
+    border-top: 2px solid #e0e0e0;
+}
+
+.confusion-matrix-section h2 {
+    font-size: 22px;
+    margin-bottom: 25px;
+    color: #222;
+}
+
+.matrix-card {
+    background: #fafafa;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 20px;
+}
+
+.matrix-card h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #444;
+}
+
+.matrix-description {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.matrix-image-container {
+    background: white;
+    padding: 20px;
+    border-radius: 4px;
+    border: 1px solid #e0e0e0;
+    text-align: center;
+}
+
+.matrix-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.matrix-error {
+    color: #999;
+    font-size: 14px;
+    padding: 40px 20px;
+}
+
+/* ============================================================================
+   ERROR SECTION
+   ============================================================================ */
+
+.error-section {
+    margin-top: 20px;
+    padding: 15px;
+    background: #fee;
+    border: 1px solid #fcc;
+    border-radius: 4px;
+}
+
+.error-section p {
+    color: #c33;
+    font-size: 14px;
+}
+
+/* ============================================================================
+   FOOTER
+   ============================================================================ */
+
+footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #e0e0e0;
+    text-align: center;
+}
+
+footer p {
+    color: #999;
+    font-size: 13px;
+}
+
+/* ============================================================================
+   RESPONSIVE
+   ============================================================================ */
+
+@media (max-width: 600px) {
+    .container {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    .language-selector {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .swap-btn {
+        order: 3;
+    }
+
+    .prob-bar {
+        flex-wrap: wrap;
+    }
+
+    .prob-label {
+        min-width: 100%;
+        margin-bottom: 5px;
+    }
+}
