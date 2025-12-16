@@ -24,4 +24,9 @@ python app.py
 http://localhost:5000
 ```
 
+### 5. Input di field nya buat translate
+
+```
+Halo apa kabar?
+```
 ---
